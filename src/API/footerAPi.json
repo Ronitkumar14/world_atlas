@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find Us",
+    "details": "Karachi Pakistan"
+  },
+  {
+    "icon": "IoCallSharp", 
+    "title": "Call Us",
+    "details": "+92-000-1234567"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail Us",
+    "details": "support@pakcompany.com"
+  }
+]
